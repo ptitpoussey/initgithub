@@ -1,1 +1,3 @@
+
+git a été créé par Linus Torvalds en 2005.
 git est un logiciel de gestion de version décentralisé.
