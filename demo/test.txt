@@ -1,1 +1,2 @@
+Bonjour le monde !
 git est un logiciel de gestion de version décentralisé.
